@@ -5,7 +5,7 @@ A machine learning web app that predicts a student's grade (A/B/C/D/F) based on 
 ---
 
 ## Live Demo
-[Live Demo](https://student-performance-predictor-qfr5shjjbeklzmaun7a97q.streamlit.app/)
+[check live website](https://student-performance-predictor-qfr5shjjbeklzmaun7a97q.streamlit.app/)
 ---
 
 ## Features
