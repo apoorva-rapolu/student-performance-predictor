@@ -5,8 +5,7 @@ A machine learning web app that predicts a student's grade (A/B/C/D/F) based on 
 ---
 
 ## Live Demo
-Deploy free on [Streamlit Community Cloud](https://streamlit.io/cloud).
-
+https://student-performance-predictor-qfr5shjjbeklzmaun7a97q.streamlit.app/
 ---
 
 ## Features
