@@ -76,6 +76,7 @@ div[data-testid="stSelectbox"] > div > div {
     border-radius: 8px !important;
     background: white !important;
     color: black !important;
+    cursor: pointer !important;
 }
 
 div[data-testid="stSelectbox"] > div * {
