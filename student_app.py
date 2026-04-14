@@ -67,7 +67,7 @@ div[data-testid="stSelectbox"] label,
 div[data-testid="stSlider"] label {
     font-size: 0.85rem !important;
     font-weight: 500 !important;
-    color: #e2e8f0 !important;
+    color: white !important;
 }
 
 div[data-testid="stNumberInput"] input,
