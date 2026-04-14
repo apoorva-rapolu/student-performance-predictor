@@ -78,7 +78,7 @@ div[data-testid="stSelectbox"] > div > div {
     color: black !important;
 }
 
-div[data-testid="stSelectbox"] * {
+div[data-testid="stSelectbox"] > div * {
     color: black !important;
 }
 
